@@ -1,0 +1,24 @@
+履歴書
+=====
+自己紹介
+
+学歴・職歴・訓練歴
+
+今まで作ったプログラム
+
+スキル
+Java
+J2EE
+JSP
+SQL
+MySQL
+JPA
+HTML5(CSS JacaScript)
+bootstrap
+jQuery
+backbone.js
+
+連絡先
+メールアドレス（kosugi@darakeru.com）
+facebook
+

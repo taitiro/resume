@@ -1,0 +1,42 @@
+/*
+* Style tweaks
+* --------------------------------------------------
+*/
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+body {
+  padding-top: 70px;
+}
+footer {
+  padding: 30px 0;
+}
+/*
+.sidebar-offcanvas {
+position: fixed;
+top: 70px;
+width:250px;
+}
+
+*/
+.main-offcanvas {
+  position: absolute;
+  top: 70px;
+  left:380px;
+}
+/*
+* 初期設定
+* --------------------------------------------------
+*/
+#profile2-title,#profile3-title,#profile4-title,#profile5-title,#profile2,#profile3,#profile4,#profile5{
+  display:none;
+}
+
+.display-title{
+  
+}
+
+.display-content{
+  
+}
